@@ -1,0 +1,5 @@
+
+	* Referenciar en el scrip el programa que lo ejecuta.
+		#!/usr/bin/env python3
+	* Cambiar el script a ejecutable.
+		chmod +x ./ ......
